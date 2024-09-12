@@ -12,14 +12,24 @@ I have a long career in IT security in food manufacturing, banking and local aut
 I am interested in next-generation tools and using bespoke solutions for automation and rapid response.  
 
 ### Today, I am working on the following:
-- ServiceNow workflow design  
-- Splunk courses 
+- ServiceNow Development (Security Operations)
+- ServiceNow Reminders 
+- Splunk courses
+- JavaScript & Rhino  Script
 - Python scanning scripts   
 - IT security incident repsonse improvements using existing tooling and systems.
 
 ### Learning 
-- ServiceNow Training 
+- ServiceNow Developer 
 - Splunk developer 
 -
 
 
+### Hobbies
+- Car Repomods
+- Tennis
+- Gym
+- Swimming
+- Live music
+- WebDev
+- Touring/Travel
